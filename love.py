@@ -29,7 +29,7 @@ def loveCalculate():
     print("Final two-digit number:", final_number)
 
 
-def playGame():
+def playGames():
     user_input = input("""Do you want to calculate how much your partner loves you?
           Press Y for Yes
           Press N for No
@@ -45,4 +45,5 @@ def playGame():
 
 
 # Start the game
-playGame()
+#Start
+playGames()
